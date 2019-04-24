@@ -1,0 +1,62 @@
+2 Starategi untuk menajadi data scientis:
+1. Top Down Modeling
+2. Machine learning
+
+setup jupiter:
+https://www.analyticsvidhya.com/blog/2018/05/starters-guide-jupyter-notebook/
+
+Python for Data Science
+https://courses.analyticsvidhya.com/courses/take/introduction-to-data-science/texts/3893936-overview-of-the-course
+
+================================================
+Statistic Example #1: Ice  Cream
+A new advertisement for Ben and Jerry's ice cream introduced in late May of last year resulted in a 30% increase in ice cream sales for the following three months. Thus, the advertisement was effective.
+
+.... Problems with this logic?
+
+Yes
+
+Ice cream consumtion typically increases in summer months.
+
+thus, there is a "history effect"
+================================================
+Statistic Example #2: Churches and Crime
+The more churches in a city, the more crime there is. thus, churches lead to crime.
+
+
+.... Problems with this logic?
+
+Yes
+
+Increased churches and increased crime rates can be explained by larger populations.
+
+Thus, there is a potential "third variable problem"
+================================================
+Statistic Example #3: Interracial Marriages
+75% more interracial marriages are occurring this year than 25 year ago.
+Thus, our society accepts interracial marriages.
+
+.... Problems with this logic?
+
+Yes
+
+What is the rate at which marriages are occurring? are there fluctuations in the rate of interracial marriages?
+
+Sometimes, we simply don't have the information that we need to understand the impact of statistics.
+
+================================================
+
+10 awesome reasons why statistics are important
+https://medium.com/@john_marsh7/10-awesome-reasons-why-statistics-are-important-96b87e283640
+
+How do Data Scientists use Statistics?
+https://www.quora.com/How-do-data-scientists-use-statistics
+
+Statistic Book
+https://www.amazon.com/Statistics-4th-David-Freedman/dp/0393929728
+
+Intro panda
+http://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+
+Basic statistics to understand population distribution
+https://www.analyticsvidhya.com/blog/2014/07/statistics/
