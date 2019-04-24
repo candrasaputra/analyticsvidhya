@@ -1,0 +1,11 @@
+1. What does the  // operator do ?
+Answer:
+Integer division
+
+2. Which of the below options will give you the remainder of a division?
+Answer:
+%
+
+3. You can perform mathematical operations on a string.
+Answer:
+False

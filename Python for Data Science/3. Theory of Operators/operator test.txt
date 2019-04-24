@@ -1,0 +1,3 @@
+If we write 3*5 in the python console-
+Answer:
+We get 15

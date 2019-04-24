@@ -1,0 +1,9 @@
+1. Which of the following statement is false about Python –
+Answer:
+Python cannot be used for anything other than data science
+
+
+2. Python does not have a large user community and hence can be challenging.
+Answer:
+False
+
